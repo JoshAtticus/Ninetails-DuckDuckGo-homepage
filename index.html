@@ -367,7 +367,7 @@
       bar.addEventListener('keydown', (e) => {
         if (e.keyCode === 13) {
           if (!engine) {
-            window.location.href = 'https://www.google.com/search?q=' + bar.value;
+            window.location.href = 'https://www.duckduckgo.com/?q=' + bar.value;
           } else {
             window.location.href = engine + bar.value;
           }
@@ -377,7 +377,7 @@
       
       btn.addEventListener('click', () => {
         if (!engine) {
-          window.location.href = 'https://www.google.com/search?q=' + bar.value;
+          window.location.href = 'https://www.duckduckgo.com/q=' + bar.value;
         } else {
           window.location.href = engine + bar.value;
         }

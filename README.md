@@ -31,5 +31,7 @@ This is supposed to be an exact copy of the [Ninetails homepage](https://ninetai
 3: Click the Homepage box
 ![image](https://user-images.githubusercontent.com/72828296/146659383-365f5fad-57ea-4b05-acc8-c1f82aecf93c.png)
 4: Set it to a homepage in the list above (I'm using DuckDuckGo)
+![image](https://user-images.githubusercontent.com/72828296/146659422-f50bc495-7714-401b-ad1d-6980a8a7dca3.png)
+
 
 

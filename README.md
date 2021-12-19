@@ -1,7 +1,8 @@
 # Ninetails homepages
 Homepages for ninetails by JoshAtticus.
 This is supposed to be an exact copy of the [Ninetails homepage](https://ninetails.cf/?v=2.2.3) with different search engines.
-! NOTE ! YOU MUST ENSURE THAT YOU ACCESS THE HOMEPAGES THROUGH HTTP, NOT HTTPS!!!
+
+**! NOTE ! YOU MUST ENSURE THAT YOU ACCESS THE HOMEPAGES THROUGH HTTP, NOT HTTPS!!!**
 
 
 # Homepage list

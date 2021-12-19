@@ -23,7 +23,10 @@ This is supposed to be an exact copy of the [Ninetails homepage](https://ninetai
 
 -Яндекс (Yandex Russia) (http://ninetails-homepages.cf/yandex-ru)
 
+
+
 #How to set homepage
+
 1: Open menu
 
 ![image](https://user-images.githubusercontent.com/72828296/146659345-57d7334d-59cd-4597-9e16-03a9fd1cfa52.png)

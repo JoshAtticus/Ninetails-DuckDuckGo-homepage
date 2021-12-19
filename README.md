@@ -5,21 +5,31 @@ This is supposed to be an exact copy of the [Ninetails homepage](https://ninetai
 
 #Homepage list
 
--Ask.com (https://ninetails-homepages.cf/ask)
+-Ask.com (http://ninetails-homepages.cf/ask)
 
--Bing (https://ninetails-homepages.cf/bing)
+-Bing (http://ninetails-homepages.cf/bing)
 
--DuckDuckGo (https://ninetails-homepages.cf/duckduckgo)
+-DuckDuckGo (http://ninetails-homepages.cf/duckduckgo)
 
--Ecosia (https://ninetails-homepages.cf/ecosia)
+-Ecosia (http://ninetails-homepages.cf/ecosia)
 
--Qwant (https://ninetails-homepages.cf/qwant)
+-Qwant (http://ninetails-homepages.cf/qwant)
 
--Yahoo! (https://ninetails-homepages.cf/yahoo)
+-Yahoo! (http://ninetails-homepages.cf/yahoo)
 
--Yahoo! Australia (https://ninetails-homepages.cf/yahoo-au)
+-Yahoo! Australia (http://ninetails-homepages.cf/yahoo-au)
 
--Yandex Global (https://ninetails-homepages.cf/yandex-global)
+-Yandex Global (http://ninetails-homepages.cf/yandex-global)
 
--Яндекс (Yandex Russia) (https://ninetails-homepages.cf/yandex-ru)
+-Яндекс (Yandex Russia) (http://ninetails-homepages.cf/yandex-ru)
+
+#How to set homepage
+1: Open menu
+![image](https://user-images.githubusercontent.com/72828296/146659345-57d7334d-59cd-4597-9e16-03a9fd1cfa52.png)
+2: Select Settings
+![image](https://user-images.githubusercontent.com/72828296/146659352-c6f5870f-7832-41c7-b41b-7382af6ccbcc.png)
+3: Click the Homepage box
+![image](https://user-images.githubusercontent.com/72828296/146659383-365f5fad-57ea-4b05-acc8-c1f82aecf93c.png)
+4: Set it to a homepage in the list above (I'm using DuckDuckGo)
+
 

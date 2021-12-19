@@ -3,7 +3,7 @@ Homepages for ninetails by JoshAtticus.
 This is supposed to be an exact copy of the [Ninetails homepage](https://ninetails.cf/?v=2.2.3) with different search engines.
 
 
-#Homepage list
+# Homepage list
 
 -Ask.com (http://ninetails-homepages.cf/ask)
 
@@ -24,8 +24,7 @@ This is supposed to be an exact copy of the [Ninetails homepage](https://ninetai
 -Яндекс (Yandex Russia) (http://ninetails-homepages.cf/yandex-ru)
 
 
-
-#How to set homepage
+# How to set homepage
 
 1: Open menu
 
